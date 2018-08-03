@@ -1,0 +1,1 @@
+cmd_/home/mq/learn/TQ210/drivers/1-2_buttons/buttons_dev.ko := arm-linux-ld -EL -r  -T /opt/EmbedSky/TQ210/Kernel_2.6.35.7_TQ210_for_Linux_v1.4/scripts/module-common.lds --build-id -o /home/mq/learn/TQ210/drivers/1-2_buttons/buttons_dev.ko /home/mq/learn/TQ210/drivers/1-2_buttons/buttons_dev.o /home/mq/learn/TQ210/drivers/1-2_buttons/buttons_dev.mod.o
